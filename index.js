@@ -11,9 +11,9 @@ function divisao(num1, num2) {
     return num1 / num2
 }
 
-a = soma(5, 5)
-b = subtracao(5, 5) 
-c = multiplicacao(5, 5)
-d = divisao(1, 2)
+const a = soma(5, 5)
+const b = subtracao(5, 5) 
+const c = multiplicacao(5, 5)
+const d = divisao(1, 2)
 
 console.log([a, b, c, d])
